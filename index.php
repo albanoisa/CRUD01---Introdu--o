@@ -43,6 +43,8 @@
             if(isset($erro)){
                 echo $erro;
             };
+
+            // esse erro serve ara alguma coisa
         
         ?>
         <br>
