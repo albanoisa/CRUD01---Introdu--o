@@ -44,7 +44,7 @@
                 echo $erro;
             };
 
-            // esse erro serve ara alguma coisa
+            // esse erro serve para alguma coisa
         
         ?>
         <br>
