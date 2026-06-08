@@ -1,6 +1,6 @@
 <h4>Usuários Cadastrados</h4>
 
-<table border="1" cellpadding="3">
+<table borde="1" cellpadding="3">
 
     <tr>
         <th>ID</th>
