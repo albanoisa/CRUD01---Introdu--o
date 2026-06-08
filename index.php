@@ -8,7 +8,7 @@
         $usuario = $_POST["usuario"];
         $senha = $_POST["senha"];
         
-        $sql = "SELECT * FROM usuarios WHERE usuario = '$usuario' AND senha = '$senha'";
+        ($sql = "SELECT * FROM usuarios WHERE usuario = '$usuario' AND senha = '$senha'";)
 
         $resultado = $conn->query($sql);
 
@@ -26,10 +26,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="styles.css">
     <title>Login</title>
 </head>
 <body>
-    <h1>Sitema de Login Simples</h1>
+
+   <div class="navbar"> 
+       <h1>Sitema de Login Simples</h1>
+   </div>
 
     <form method="POST">
         <label>Usuário:</label>
