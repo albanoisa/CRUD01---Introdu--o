@@ -1,9 +1,9 @@
-   body{
+body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color:rgb(255, 207, 219);
 }
 
-   header{
+header{
     font-size: 50px;
     padding: 20px;
 }
@@ -21,12 +21,10 @@
 .a{
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(255, 255, 255);
+    background-color: white;
     border-radius: 20px;
-    margin: 20px;
     padding: 20px;
     width: 300px;
-    height: 150px;
-    display: inline-table;
-    justify-self:center;
+    height: 100px;
+    
 }
