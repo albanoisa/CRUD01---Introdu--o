@@ -18,3 +18,14 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.a{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    width: 500px;
+    height: 300px;
+    display: inline-table;
+}

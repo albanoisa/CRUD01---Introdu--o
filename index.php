@@ -37,6 +37,8 @@
 
    <br><br>
 
+    <div class="formulario">
+
     <form method="POST">
         <label>Usuário:</label>
         <input type="text" name="usuario">
@@ -55,6 +57,7 @@
         ?>
         <br>
         <button type="submit">Entrar</button>
+        </div>
     </form>
 
 </body>
