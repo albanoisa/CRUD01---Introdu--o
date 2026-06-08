@@ -51,8 +51,6 @@
             if(isset($erro)){
                 echo $erro;
             };
-
-            // esse erro serve para alguma coisa
         
         ?>
         <br>
