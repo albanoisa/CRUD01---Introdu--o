@@ -37,7 +37,7 @@
 
    <br><br>
 
-    <div class="formulario">
+    <div class="a">
 
     <form method="POST">
         <label>Usuário:</label>
