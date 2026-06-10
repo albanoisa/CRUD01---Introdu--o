@@ -1,0 +1,1 @@
+Tentei deixar essa parte do index ("$sql = "SELECT * FROM usuarios WHERE usuario = '$usuario' AND senha = '$senha'";") fora do código, pórem não consegui concluir.
